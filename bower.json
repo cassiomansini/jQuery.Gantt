@@ -1,0 +1,23 @@
+{
+  "name": "usabit-gantt",
+  "homepage": "https://github.com/cassiomansini/jQuery.Gantt",
+  "authors": [
+    "cassio mansini <cassiomansini@gmail.com>"
+  ],
+  "description": "Plugin para timeline da usabit, com base no projeto jQuery.Gantt de @taitems",
+  "main": "['css/style.css', 'js/jquery.fn.gantt.js']",
+  "keywords": [
+    "jquery",
+    "gantt",
+    "timeline"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
